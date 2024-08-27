@@ -14,7 +14,7 @@ A clone of the Razorpay website, built using modern web development tools and te
 
 
 ## Demo
-You can check the live demo of the project here: [Live Demo](https://your-demo-link.com)
+You can check the live demo of the project here: [Live Demo](https://mahendrajangid2583.github.io/Razorpay-clone/)
 ## github repository 
 You can check source code here: [check code](https://github.com/mahendrajangid2583/Razorpay-clone.git)
 
