@@ -1,0 +1,26 @@
+.card-box .card-stroke{
+    transition: filter 200ms ease-in-out;
+}
+.card-box:hover .card-stroke{
+    filter: drop-shadow(0px 0px 17px  rgba(235, 233, 233));
+    
+}
+.card-box-black .card-stroke-black{
+    transition: all 200ms ease-in-out;
+}
+.card-box-black:hover .card-stroke-black{
+    filter: drop-shadow(0 0 19px rgb(9, 9, 22));
+    stroke: none;
+}
+.animation{
+    animation: scroll 27s linear infinite;
+}
+@keyframes scroll{
+    0%{
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(-700px);
+    }
+}
+
