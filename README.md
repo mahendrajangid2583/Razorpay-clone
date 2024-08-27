@@ -1,6 +1,6 @@
-# Razorpay Clone
+# Razorpay Clone 
 
-A clone of the Razorpay website, built using modern web development tools and technologies.
+A clone of the Razorpay website, built using Using tailwind html technologies.
 
 ## Table of Contents
 - [Demo](#demo)
